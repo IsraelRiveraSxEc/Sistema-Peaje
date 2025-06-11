@@ -21,17 +21,17 @@ public class Ejecución {
         Camión camion5 = new Camión("PXT-1178", "Mack", 5);
 
         // Añadir todos los vehículos al peaje
-        peaje.añadirVehiculo(moto1);
-        peaje.añadirVehiculo(moto2);
-        peaje.añadirVehiculo(moto3);
-        peaje.añadirVehiculo(carro1);
-        peaje.añadirVehiculo(carro2);
-        peaje.añadirVehiculo(carro3);
-        peaje.añadirVehiculo(camion1);
-        peaje.añadirVehiculo(camion2);
-        peaje.añadirVehiculo(camion3);
-        peaje.añadirVehiculo(camion4);
-        peaje.añadirVehiculo(camion5);
+        peaje.añadirVehículo(moto1);
+        peaje.añadirVehículo(moto2);
+        peaje.añadirVehículo(moto3);
+        peaje.añadirVehículo(carro1);
+        peaje.añadirVehículo(carro2);
+        peaje.añadirVehículo(carro3);
+        peaje.añadirVehículo(camion1);
+        peaje.añadirVehículo(camion2);
+        peaje.añadirVehículo(camion3);
+        peaje.añadirVehículo(camion4);
+        peaje.añadirVehículo(camion5);
 
         // Imprimir el reporte final
         peaje.imprimir();

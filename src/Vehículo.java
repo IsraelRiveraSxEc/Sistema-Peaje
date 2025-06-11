@@ -1,9 +1,9 @@
-public abstract class Vehiculo {
+public abstract class Vehículo {
     protected String placa;
     protected String marca;
 
-    // Constructor de la clase base Vehiculo
-    public Vehiculo(String placa, String marca) {
+    // Constructor de la clase base Vehículo
+    public Vehículo(String placa, String marca) {
         this.placa = placa;
         this.marca = marca;
     }

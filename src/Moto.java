@@ -1,4 +1,4 @@
-public class Moto extends Vehiculo {
+public class Moto extends Vehículo {
     @SuppressWarnings("FieldMayBeFinal")// Unicamente para evitar advertencias de campo final en mi vscode
     private int valorPeaje = 1;
 

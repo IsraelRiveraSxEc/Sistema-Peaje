@@ -22,7 +22,7 @@ src/
  ├── Ejecución.java
  ├── Moto.java
  ├── Peaje.java
- └── Vehiculo.java
+ └── Vehículo.java
 ```
 
 ## 🚀 Ejecución
